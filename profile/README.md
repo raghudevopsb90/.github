@@ -8,17 +8,3 @@
 | RoboShop MicroServices | https://github.com/raghudevopsb90/roboshop-microservices/blob/main/00-overview.md | |
 
 
-## Image gallery VM.
-
-1. Launch VM with RHEL10
-2. Run the following commands
-
-```shell
-sed -i -e '/SELINUX=/ c SELINUX=disabled' /etc/selinux/config
-systemctl disable firewalld
-curl https://raw.githubusercontent.com/learndevopsonline/azure-public-gallery/refs/heads/main/rhel-9/files/ps1.sh -o /etc/profile.d/ps1.sh
-chmod ugo+x /etc/profile.d/ps1.sh
-reboot
-```
-3. Shutdown VM
-4. Capture to gallery.
