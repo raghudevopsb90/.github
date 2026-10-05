@@ -7,6 +7,9 @@
 | | |
 | | |
 | AWS Login Page | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 | |
+| EC2 AMI | https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Images:visibility=public-images;owner=973714476881;search=:Redhat-9-DevOps-Practice;v=3;$case=tags:false%5C,client:false;$regex=tags:false%5C,client:false | |
+| | |
+| | |
 | RoboShop Monolith | https://github.com/raghudevopsb90/roboshop-monolith/blob/main/README.md | |
 | RoboShop MicroServices | https://github.com/raghudevopsb90/roboshop-microservices/blob/main/00-overview.md | |
 
