@@ -7,7 +7,7 @@
 | | |
 | | |
 | AWS Login Page | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 | |
-| EC2 AMI | https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Images:visibility=public-images;owner=973714476881;search=:Redhat-9-DevOps-Practice;v=3;$case=tags:false%5C,client:false;$regex=tags:false%5C,client:false | |
+| EC2 AMI | https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Images:visibility=public-images;owner=973714476881;search=:Redhat-10-DevOps-Practice;v=3;$case=tags:false%5C,client:false;$regex=tags:false%5C,client:false | |
 | Linux Username / Password | ec2-user / DevOps321 | |
 | | |
 | | |
